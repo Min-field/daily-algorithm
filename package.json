@@ -1,0 +1,11 @@
+{
+  "name": "daily-algorithm",
+  "version": "1.0.0",
+  "description": "daily algorithm",
+  "main": "algorithm ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "feikerwu@gmail.com",
+  "license": "ISC"
+}
